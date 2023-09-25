@@ -1,122 +1,122 @@
 [
-    {
-        "id": 1,
-        "Picture": "https://i.ibb.co/D9n249t/health.png",
-        "Title": "Clean Water for Children",
-        "Category": "Health",
-        "Category_bg": "bg-blue-200",
-        "Card_bg": "bg-blue-100",
-        "Text_button_bg": "text-blue-500",
-        "Description": "Access to clean and safe drinking water is a fundamental human right that millions of children around the world are denied. Without clean water, children suffer from waterborne diseases and malnutrition, and their chances of survival and education diminish. Your donation can help change this tragic reality. By contributing to our clean water initiative, you provide the gift of life, health, and hope to these children. Together, we can create a world where no child goes thirsty, and every child has the opportunity to thrive. Your support matters, and it makes a significant impact. Join us today in the mission to provide clean water for children in need."
-    },
-    {
-        "id": 2,
-        "Picture": "https://i.ibb.co/2MV5kHf/education.png",
-        "Title": "Good Education",
-        "Category": "Education",
-        "Category_bg": "bg-red-200",
-        "Card_bg": "bg-red-100",
-        "Text_button_bg": "text-red-500",
-        "Description": "Access to quality education is a fundamental right that should be available to every child, regardless of their background or circumstances. Sadly, millions of children worldwide are denied this opportunity due to poverty, lack of resources, and other barriers. Your donation can make a profound difference in their lives. By supporting our education initiatives, you empower children to break the cycle of poverty, gain knowledge, and build a brighter future. Education is a powerful tool for positive change, and your contribution ensures that more children have access to it. Join us in our mission to provide good education for all, and together, we can create a world where every child has the chance to learn, grow, and succeed."
-    },
-    {
-        "id": 3,
-        "Picture": "https://i.ibb.co/L1xGJJ8/clothing.png",
-        "Title": "Used Clothing Drive",
-        "Category": "Clothing",
-        "Category_bg": "bg-green-100",
-        "Card_bg": "bg-green-50",
-        "Text_button_bg": "text-green-400",
-        "Description": "In many parts of the world, individuals and families struggle to meet their basic clothing needs. For some, a warm coat during winter or suitable attire for a job interview can be out of reach. Your donation of clothing can make a significant impact on those facing such challenges. By providing clothing to those in need, you offer comfort, dignity, and the chance for a fresh start. Your generosity helps individuals stay warm, find employment, and regain their self-esteem. Join us in our mission to provide clothing to those less fortunate, and together, we can make a positive difference in the lives of countless individuals and families."
-    },
-    {
-        "id": 4,
-        "Picture": "https://i.ibb.co/ch2HkP6/food.png",
-        "Title": "Better Food for Everyone",
-        "Category": "Food",
-        "Category_bg": "bg-red-100",
-        "Card_bg": "bg-red-50",
-        "Text_button_bg": "text-red-400",
-        "Description": "Hunger and food insecurity affect millions of people worldwide, including children, families, and the elderly. No one should have to go to bed hungry or worry about where their next meal will come from. Your donation can help alleviate this suffering. By contributing to our food relief programs, you provide nutritious meals to those in need. You help combat malnutrition and ensure that everyone has access to better food. Your support not only nourishes bodies but also brings hope and relief to individuals and communities struggling with hunger. Join us in our mission to provide better food for everyone, and together, we can work towards a world where hunger is a thing of the past."
-    },
-    {
-        "id": 5,
-        "Picture": "https://i.ibb.co/ch2HkP6/food.png",
-        "Title": "Better Food for Everyone",
-        "Category": "Food",
-        "Category_bg": "bg-red-100",
-        "Card_bg": "bg-red-50",
-        "Text_button_bg": "text-red-400",
-        "Description": "Hunger and food insecurity affect millions of people worldwide, including children, families, and the elderly. No one should have to go to bed hungry or worry about where their next meal will come from. Your donation can help alleviate this suffering. By contributing to our food relief programs, you provide nutritious meals to those in need. You help combat malnutrition and ensure that everyone has access to better food. Your support not only nourishes bodies but also brings hope and relief to individuals and communities struggling with hunger. Join us in our mission to provide better food for everyone, and together, we can work towards a world where hunger is a thing of the past."
-    },
-    {
-        "id": 6,
-        "Picture": "https://i.ibb.co/L1xGJJ8/clothing.png",
-        "Title": "Used Clothing Drive",
-        "Category": "Clothing",
-        "Category_bg": "bg-green-100",
-        "Card_bg": "bg-green-50",
-        "Text_button_bg": "text-green-400",
-        "Description": "In many parts of the world, individuals and families struggle to meet their basic clothing needs. For some, a warm coat during winter or suitable attire for a job interview can be out of reach. Your donation of clothing can make a significant impact on those facing such challenges. By providing clothing to those in need, you offer comfort, dignity, and the chance for a fresh start. Your generosity helps individuals stay warm, find employment, and regain their self-esteem. Join us in our mission to provide clothing to those less fortunate, and together, we can make a positive difference in the lives of countless individuals and families."
-    },
-    {
-        "id": 7,
-        "Picture": "https://i.ibb.co/2MV5kHf/education.png",
-        "Title": "Good Education",
-        "Category": "Education",
-        "Category_bg": "bg-red-200",
-        "Card_bg": "bg-red-100",
-        "Text_button_bg": "text-red-500",
-        "Description": "Access to quality education is a fundamental right that should be available to every child, regardless of their background or circumstances. Sadly, millions of children worldwide are denied this opportunity due to poverty, lack of resources, and other barriers. Your donation can make a profound difference in their lives. By supporting our education initiatives, you empower children to break the cycle of poverty, gain knowledge, and build a brighter future. Education is a powerful tool for positive change, and your contribution ensures that more children have access to it. Join us in our mission to provide good education for all, and together, we can create a world where every child has the chance to learn, grow, and succeed."
-    },
-    {
-        "id": 8,
-        "Picture": "https://i.ibb.co/D9n249t/health.png",
-        "Title": "Clean Water for Children",
-        "Category": "Health",
-        "Category_bg": "bg-blue-200",
-        "Card_bg": "bg-blue-100",
-        "Text_button_bg": "text-blue-500",
-        "Description": "Access to clean and safe drinking water is a fundamental human right that millions of children around the world are denied. Without clean water, children suffer from waterborne diseases and malnutrition, and their chances of survival and education diminish. Your donation can help change this tragic reality. By contributing to our clean water initiative, you provide the gift of life, health, and hope to these children. Together, we can create a world where no child goes thirsty, and every child has the opportunity to thrive. Your support matters, and it makes a significant impact. Join us today in the mission to provide clean water for children in need."
-    },
-    {
-        "id": 9,
-        "Picture": "https://i.ibb.co/D9n249t/health.png",
-        "Title": "Clean Water for Children",
-        "Category": "Health",
-        "Category_bg": "bg-blue-200",
-        "Card_bg": "bg-blue-100",
-        "Text_button_bg": "text-blue-500",
-        "Description": "Access to clean and safe drinking water is a fundamental human right that millions of children around the world are denied. Without clean water, children suffer from waterborne diseases and malnutrition, and their chances of survival and education diminish. Your donation can help change this tragic reality. By contributing to our clean water initiative, you provide the gift of life, health, and hope to these children. Together, we can create a world where no child goes thirsty, and every child has the opportunity to thrive. Your support matters, and it makes a significant impact. Join us today in the mission to provide clean water for children in need."
-    },
-    {
-        "id": 10,
-        "Picture": "https://i.ibb.co/2MV5kHf/education.png",
-        "Title": "Good Education",
-        "Category": "Education",
-        "Category_bg": "bg-red-200",
-        "Card_bg": "bg-red-100",
-        "Text_button_bg": "text-red-500",
-        "Description": "Access to quality education is a fundamental right that should be available to every child, regardless of their background or circumstances. Sadly, millions of children worldwide are denied this opportunity due to poverty, lack of resources, and other barriers. Your donation can make a profound difference in their lives. By supporting our education initiatives, you empower children to break the cycle of poverty, gain knowledge, and build a brighter future. Education is a powerful tool for positive change, and your contribution ensures that more children have access to it. Join us in our mission to provide good education for all, and together, we can create a world where every child has the chance to learn, grow, and succeed."
-    },
-    {
-        "id": 11,
-        "Picture": "https://i.ibb.co/L1xGJJ8/clothing.png",
-        "Title": "Used Clothing Drive",
-        "Category": "Clothing",
-        "Category_bg": "bg-green-100",
-        "Card_bg": "bg-green-50",
-        "Text_button_bg": "text-green-400",
-        "Description": "In many parts of the world, individuals and families struggle to meet their basic clothing needs. For some, a warm coat during winter or suitable attire for a job interview can be out of reach. Your donation of clothing can make a significant impact on those facing such challenges. By providing clothing to those in need, you offer comfort, dignity, and the chance for a fresh start. Your generosity helps individuals stay warm, find employment, and regain their self-esteem. Join us in our mission to provide clothing to those less fortunate, and together, we can make a positive difference in the lives of countless individuals and families."
-    },
-    {
-        "id": 12,
-        "Picture": "https://i.ibb.co/ch2HkP6/food.png",
-        "Title": "Better Food for Everyone",
-        "Category": "Food",
-        "Category_bg": "bg-red-100",
-        "Card_bg": "bg-red-50",
-        "Text_button_bg": "text-red-400",
-        "Description": "Hunger and food insecurity affect millions of people worldwide, including children, families, and the elderly. No one should have to go to bed hungry or worry about where their next meal will come from. Your donation can help alleviate this suffering. By contributing to our food relief programs, you provide nutritious meals to those in need. You help combat malnutrition and ensure that everyone has access to better food. Your support not only nourishes bodies but also brings hope and relief to individuals and communities struggling with hunger. Join us in our mission to provide better food for everyone, and together, we can work towards a world where hunger is a thing of the past."
-    }
+  {
+    "id": 1,
+    "Picture": "https://i.ibb.co/D9n249t/health.png",
+    "Title": "Clean Water for Children",
+    "Category": "Health",
+    "Category_bg": "rgba(0, 82, 255, 0.20)",
+    "Card_bg": "#0052FF26",
+    "Text_button_bg": "#0052FF",
+    "Description": "Access to clean and safe drinking water is a fundamental human right that millions of children around the world are denied. Without clean water, children suffer from waterborne diseases and malnutrition, and their chances of survival and education diminish. Your donation can help change this tragic reality. By contributing to our clean water initiative, you provide the gift of life, health, and hope to these children. Together, we can create a world where no child goes thirsty, and every child has the opportunity to thrive. Your support matters, and it makes a significant impact. Join us today in the mission to provide clean water for children in need."
+  },
+  {
+    "id": 2,
+    "Picture": "https://i.ibb.co/2MV5kHf/education.png",
+    "Title": "Good Education",
+    "Category": "Education",
+    "Category_bg": "rgba(255, 68, 74, 0.20)",
+    "Card_bg": "#FF444A26",
+    "Text_button_bg": "#FF444A",
+    "Description": "Access to quality education is a fundamental right that should be available to every child, regardless of their background or circumstances. Sadly, millions of children worldwide are denied this opportunity due to poverty, lack of resources, and other barriers. Your donation can make a profound difference in their lives. By supporting our education initiatives, you empower children to break the cycle of poverty, gain knowledge, and build a brighter future. Education is a powerful tool for positive change, and your contribution ensures that more children have access to it. Join us in our mission to provide good education for all, and together, we can create a world where every child has the chance to learn, grow, and succeed."
+  },
+  {
+    "id": 3,
+    "Picture": "https://i.ibb.co/L1xGJJ8/clothing.png",
+    "Title": "Used Clothing Drive",
+    "Category": "Clothing",
+    "Category_bg": "rgba(121, 194, 63, 0.20)",
+    "Card_bg": "#79C23F26",
+    "Text_button_bg": "#79C23F",
+    "Description": "In many parts of the world, individuals and families struggle to meet their basic clothing needs. For some, a warm coat during winter or suitable attire for a job interview can be out of reach. Your donation of clothing can make a significant impact on those facing such challenges. By providing clothing to those in need, you offer comfort, dignity, and the chance for a fresh start. Your generosity helps individuals stay warm, find employment, and regain their self-esteem. Join us in our mission to provide clothing to those less fortunate, and together, we can make a positive difference in the lives of countless individuals and families."
+  },
+  {
+    "id": 4,
+    "Picture": "https://i.ibb.co/ch2HkP6/food.png",
+    "Title": "Better Food for Everyone",
+    "Category": "Food",
+    "Category_bg": "rgba(248, 113, 71, 0.20)",
+    "Card_bg": "#F8714726",
+    "Text_button_bg": "#F87147",
+    "Description": "Hunger and food insecurity affect millions of people worldwide, including children, families, and the elderly. No one should have to go to bed hungry or worry about where their next meal will come from. Your donation can help alleviate this suffering. By contributing to our food relief programs, you provide nutritious meals to those in need. You help combat malnutrition and ensure that everyone has access to better food. Your support not only nourishes bodies but also brings hope and relief to individuals and communities struggling with hunger. Join us in our mission to provide better food for everyone, and together, we can work towards a world where hunger is a thing of the past."
+  },
+  {
+    "id": 5,
+    "Picture": "https://i.ibb.co/ch2HkP6/food.png",
+    "Title": "Better Food for Everyone",
+    "Category": "Food",
+    "Category_bg": "rgba(248, 113, 71, 0.20)",
+    "Card_bg": "#F8714726",
+    "Text_button_bg": "#F87147",
+    "Description": "Hunger and food insecurity affect millions of people worldwide, including children, families, and the elderly. No one should have to go to bed hungry or worry about where their next meal will come from. Your donation can help alleviate this suffering. By contributing to our food relief programs, you provide nutritious meals to those in need. You help combat malnutrition and ensure that everyone has access to better food. Your support not only nourishes bodies but also brings hope and relief to individuals and communities struggling with hunger. Join us in our mission to provide better food for everyone, and together, we can work towards a world where hunger is a thing of the past."
+  },
+  {
+    "id": 6,
+    "Picture": "https://i.ibb.co/L1xGJJ8/clothing.png",
+    "Title": "Used Clothing Drive",
+    "Category": "Clothing",
+    "Category_bg": "rgba(121, 194, 63, 0.20)",
+    "Card_bg": "#79C23F26",
+    "Text_button_bg": "#79C23F",
+    "Description": "In many parts of the world, individuals and families struggle to meet their basic clothing needs. For some, a warm coat during winter or suitable attire for a job interview can be out of reach. Your donation of clothing can make a significant impact on those facing such challenges. By providing clothing to those in need, you offer comfort, dignity, and the chance for a fresh start. Your generosity helps individuals stay warm, find employment, and regain their self-esteem. Join us in our mission to provide clothing to those less fortunate, and together, we can make a positive difference in the lives of countless individuals and families."
+  },
+  {
+    "id": 7,
+    "Picture": "https://i.ibb.co/2MV5kHf/education.png",
+    "Title": "Good Education",
+    "Category": "Education",
+    "Category_bg": "rgba(255, 68, 74, 0.20)",
+    "Card_bg": "#FF444A26",
+    "Text_button_bg": "#FF444A",
+    "Description": "Access to quality education is a fundamental right that should be available to every child, regardless of their background or circumstances. Sadly, millions of children worldwide are denied this opportunity due to poverty, lack of resources, and other barriers. Your donation can make a profound difference in their lives. By supporting our education initiatives, you empower children to break the cycle of poverty, gain knowledge, and build a brighter future. Education is a powerful tool for positive change, and your contribution ensures that more children have access to it. Join us in our mission to provide good education for all, and together, we can create a world where every child has the chance to learn, grow, and succeed."
+  },
+  {
+    "id": 8,
+    "Picture": "https://i.ibb.co/D9n249t/health.png",
+    "Title": "Clean Water for Children",
+    "Category": "Health",
+    "Category_bg": "rgba(0, 82, 255, 0.20)",
+    "Card_bg": "#0052FF26",
+    "Text_button_bg": "#0052FF",
+    "Description": "Access to clean and safe drinking water is a fundamental human right that millions of children around the world are denied. Without clean water, children suffer from waterborne diseases and malnutrition, and their chances of survival and education diminish. Your donation can help change this tragic reality. By contributing to our clean water initiative, you provide the gift of life, health, and hope to these children. Together, we can create a world where no child goes thirsty, and every child has the opportunity to thrive. Your support matters, and it makes a significant impact. Join us today in the mission to provide clean water for children in need."
+  },
+  {
+    "id": 9,
+    "Picture": "https://i.ibb.co/D9n249t/health.png",
+    "Title": "Clean Water for Children",
+    "Category": "Health",
+    "Category_bg": "rgba(0, 82, 255, 0.20)",
+    "Card_bg": "#0052FF26",
+    "Text_button_bg": "#0052FF",
+    "Description": "Access to clean and safe drinking water is a fundamental human right that millions of children around the world are denied. Without clean water, children suffer from waterborne diseases and malnutrition, and their chances of survival and education diminish. Your donation can help change this tragic reality. By contributing to our clean water initiative, you provide the gift of life, health, and hope to these children. Together, we can create a world where no child goes thirsty, and every child has the opportunity to thrive. Your support matters, and it makes a significant impact. Join us today in the mission to provide clean water for children in need."
+  },
+  {
+    "id": 10,
+    "Picture": "https://i.ibb.co/2MV5kHf/education.png",
+    "Title": "Good Education",
+    "Category": "Education",
+    "Category_bg": "rgba(255, 68, 74, 0.20)",
+    "Card_bg": "#FF444A26",
+    "Text_button_bg": "#FF444A",
+    "Description": "Access to quality education is a fundamental right that should be available to every child, regardless of their background or circumstances. Sadly, millions of children worldwide are denied this opportunity due to poverty, lack of resources, and other barriers. Your donation can make a profound difference in their lives. By supporting our education initiatives, you empower children to break the cycle of poverty, gain knowledge, and build a brighter future. Education is a powerful tool for positive change, and your contribution ensures that more children have access to it. Join us in our mission to provide good education for all, and together, we can create a world where every child has the chance to learn, grow, and succeed."
+  },
+  {
+    "id": 11,
+    "Picture": "https://i.ibb.co/L1xGJJ8/clothing.png",
+    "Title": "Used Clothing Drive",
+    "Category": "Clothing",
+    "Category_bg": "rgba(121, 194, 63, 0.20)",
+    "Card_bg": "#79C23F26",
+    "Text_button_bg": "#79C23F",
+    "Description": "In many parts of the world, individuals and families struggle to meet their basic clothing needs. For some, a warm coat during winter or suitable attire for a job interview can be out of reach. Your donation of clothing can make a significant impact on those facing such challenges. By providing clothing to those in need, you offer comfort, dignity, and the chance for a fresh start. Your generosity helps individuals stay warm, find employment, and regain their self-esteem. Join us in our mission to provide clothing to those less fortunate, and together, we can make a positive difference in the lives of countless individuals and families."
+  },
+  {
+    "id": 12,
+    "Picture": "https://i.ibb.co/ch2HkP6/food.png",
+    "Title": "Better Food for Everyone",
+    "Category": "Food",
+    "Category_bg": "rgba(248, 113, 71, 0.20)",
+    "Card_bg": "#F8714726",
+    "Text_button_bg": "#F87147",
+    "Description": "Hunger and food insecurity affect millions of people worldwide, including children, families, and the elderly. No one should have to go to bed hungry or worry about where their next meal will come from. Your donation can help alleviate this suffering. By contributing to our food relief programs, you provide nutritious meals to those in need. You help combat malnutrition and ensure that everyone has access to better food. Your support not only nourishes bodies but also brings hope and relief to individuals and communities struggling with hunger. Join us in our mission to provide better food for everyone, and together, we can work towards a world where hunger is a thing of the past."
+  }
 ]

@@ -9,7 +9,7 @@ const Banner = () => {
     >
       <div className="hero-overlay bg-white bg-opacity-90"></div>
       <div className="hero-content text-center">
-        <div className="py-40">
+        <div className="pt-52 pb-36">
           <h1 className="mb-5 text-5xl font-bold">
             I Grow By Helping People In Need
           </h1>

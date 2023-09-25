@@ -12,6 +12,7 @@ const Categories = () => {
     };
     loadData();
   }, []);
+
   return (
     <div className="px-5 md:px-10 lg:px-16 py-10">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">

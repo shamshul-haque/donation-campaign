@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Donation from "./components/donation/Donation";
+import DonationDetails from "./components/donation/DonationDetails";
 import ErrorPage from "./components/errorPage/ErrorPage";
 import Home from "./components/home/Home";
 import Root from "./components/root/Root";
@@ -25,6 +26,11 @@ const router = createBrowserRouter([
       {
         path: "/statistics",
         element: <Statistics />,
+      },
+      {
+        path: "/donationDetails/:id",
+        element: <DonationDetails />,
+        loader: () => fetch("../donationData.json"),
       },
     ],
   },

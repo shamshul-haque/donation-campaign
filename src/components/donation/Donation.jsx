@@ -55,7 +55,9 @@ const Donation = () => {
           </div>
         ))}
       </div>
-      <div className="text-center my-5">
+      <div
+        className={`text-center my-5 ${donated.length <= 4 ? "hidden" : ""}`}
+      >
         <button
           className={`bg-green-600 px-5 py-2 rounded-md text-white font-semibold ${
             dataLength === donated.length ? "hidden" : ""

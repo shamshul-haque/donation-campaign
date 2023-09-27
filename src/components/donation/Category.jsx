@@ -1,11 +1,11 @@
 import PropTypes from "prop-types";
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const Category = ({ category }) => {
   const { id, Picture, Category, Title, Card_bg, Category_bg, Text_button_bg } =
     category;
   return (
-    <NavLink to={`/donationDetails/${id}`}>
+    <Link to={`/donationDetails/${id}`}>
       <div
         className="card card-compact shadow-xl cursor-pointer"
         style={{ backgroundColor: Card_bg }}
@@ -28,7 +28,7 @@ const Category = ({ category }) => {
           </h1>
         </div>
       </div>
-    </NavLink>
+    </Link>
   );
 };
 

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useLoaderData } from "react-router-dom";
+import { Link, useLoaderData } from "react-router-dom";
 import { getStoredData } from "../utility/LocalStorage";
 
 const Donation = () => {
@@ -52,7 +52,7 @@ const Donation = () => {
                   className="font-semibold px-2 text-white py-1 rounded-md"
                   style={{ backgroundColor: item.Text_button_bg }}
                 >
-                  View Details
+                  <Link to={`/donationDetails/${item.id}`}>View Details</Link>
                 </button>
               </div>
             </div>

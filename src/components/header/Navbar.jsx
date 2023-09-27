@@ -6,13 +6,34 @@ const Navbar = () => {
   const links = (
     <>
       <li>
-        <NavLink to="/">Home</NavLink>
+        <NavLink
+          to="/"
+          className={({ isActive }) =>
+            isActive ? "text-red-500 underline active" : ""
+          }
+        >
+          Home
+        </NavLink>
       </li>
       <li>
-        <NavLink to="/donation">Donation</NavLink>
+        <NavLink
+          to="/donation"
+          className={({ isActive }) =>
+            isActive ? "text-red-500 underline active" : ""
+          }
+        >
+          Donation
+        </NavLink>
       </li>
       <li>
-        <NavLink to="/statistics">Statistics</NavLink>
+        <NavLink
+          to="/statistics"
+          className={({ isActive }) =>
+            isActive ? "text-red-500 underline active" : ""
+          }
+        >
+          Statistics
+        </NavLink>
       </li>
     </>
   );
@@ -36,7 +57,7 @@ const Navbar = () => {
         </Link>
       </div>
       <div className="navbar-end hidden lg:flex">
-        <ul className="menu menu-horizontal px-1">{links}</ul>
+        <ul className="flex gap-5 px-1">{links}</ul>
       </div>
     </div>
   );

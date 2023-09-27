@@ -1,4 +1,6 @@
 import { useEffect, useState } from "react";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 import Banner from "../banner/Banner";
 import Category from "../donation/Category";
 
@@ -20,7 +22,17 @@ const Home = () => {
       const filter = categories.filter(
         (filter) => filter.Category.toLowerCase() === searchQuery.toLowerCase()
       );
-      setCategories(filter);
+      if (filter.length === 0) {
+        toast.warning("No data found! Please search the right category.", {
+          theme: "colored",
+          autoClose: 3000,
+        });
+        setTimeout(() => {
+          location.reload();
+        }, 3000);
+      } else {
+        setCategories(filter);
+      }
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchQuery]);
@@ -35,6 +47,7 @@ const Home = () => {
           ))}
         </div>
       </div>
+      <ToastContainer />
     </div>
   );
 };

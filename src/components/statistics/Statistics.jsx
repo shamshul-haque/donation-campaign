@@ -38,7 +38,7 @@ const Statistics = () => {
   };
 
   return (
-    <div className="h-96 w-96 mx-auto">
+    <div className="h-80 md:h-96 w-80 md:w-96 mx-auto">
       <ResponsiveContainer width="100%" height="100%">
         <PieChart width={500} height={500}>
           <Pie
@@ -60,13 +60,13 @@ const Statistics = () => {
           </Pie>
         </PieChart>
       </ResponsiveContainer>
-      <div className="flex gap-10 justify-center">
+      <div className="flex gap-5 md:gap-10 justify-center pb-5">
         <div className="flex items-center gap-2">
-          <p className="text-lg">Your Donation</p>
+          <p className="text-sm md:text-base">Your Donation</p>
           <p className="w-10 h-2 bg-[#00C49F] mt-1"></p>
         </div>
         <div className="flex items-center gap-2">
-          <p>Total Donation</p>
+          <p className="text-sm md:text-base">Total Donation</p>
           <p className="w-10 h-2 bg-[#FF444A] mt-1"></p>
         </div>
       </div>

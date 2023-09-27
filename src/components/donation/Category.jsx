@@ -20,7 +20,10 @@ const Category = ({ category }) => {
           >
             {Category}
           </button>
-          <h1 className="font-bold" style={{ color: Text_button_bg }}>
+          <h1
+            className="font-bold line-clamp-1"
+            style={{ color: Text_button_bg }}
+          >
             {Title}
           </h1>
         </div>

@@ -20,8 +20,8 @@ const Banner = ({ setSearchQuery }) => {
     >
       <div className="hero-overlay bg-white bg-opacity-90"></div>
       <div className="hero-content text-center">
-        <div className="pt-52 pb-36">
-          <h1 className="mb-5 text-5xl font-bold">
+        <div className="py-20 md:py-40">
+          <h1 className="mb-5 text-3xl md:text-4xl lg:text-5xl font-bold">
             I Grow By Helping People In Need
           </h1>
           <form onSubmit={handleSearch}>
@@ -31,7 +31,7 @@ const Banner = ({ setSearchQuery }) => {
               name="search"
               value={inputValue}
               onChange={(e) => setInputValue(e.target.value)}
-              className="w-1/2 border border-gray-200 outline-0 p-2 rounded-md"
+              className="md:w-1/2 border border-gray-200 outline-0 p-2 rounded-md"
             />
             <button
               className="bg-red-500 p-2 text-white rounded-r-md -ml-16 font-semibold"

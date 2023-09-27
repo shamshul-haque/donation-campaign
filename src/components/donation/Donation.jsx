@@ -23,11 +23,15 @@ const Donation = () => {
         {donated.slice(0, dataLength).map((item) => (
           <div
             key={item.id}
-            className="card card-side bg-base-100 shadow-xl"
+            className="card flex flex-col lg:card-side shadow-xl"
             style={{ backgroundColor: item.Card_bg }}
           >
             <figure>
-              <img src={item.Picture} alt="Movie" className="h-full w-60" />
+              <img
+                src={item.Picture}
+                alt="Movie"
+                className="h-full w-full lg:w-60 "
+              />
             </figure>
             <div className="card-body">
               <div className="card-actions justify-start">

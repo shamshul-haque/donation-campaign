@@ -17,7 +17,7 @@ const DonationDetails = () => {
   };
 
   return (
-    <div className="px-5 md:px-10 lg:px-16 py-5">
+    <div className="px-5 md:px-10 lg:px-16 py-5 pt-16">
       <div className="relative">
         <img src={item.Picture} alt="" className="w-full rounded-md" />
         <div className="absolute bottom-0 left-0 h-20 w-full bg-black opacity-50 rounded-b-md"></div>

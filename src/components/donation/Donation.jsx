@@ -19,7 +19,7 @@ const Donation = () => {
 
   return (
     <div>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-5 px-5 md:px-10 lg:px-16 py-5">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-5 px-5 md:px-10 lg:px-16 py-5 pt-16">
         {donated.slice(0, dataLength).map((item) => (
           <div
             key={item.id}

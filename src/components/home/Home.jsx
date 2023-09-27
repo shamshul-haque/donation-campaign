@@ -8,7 +8,7 @@ const Home = () => {
 
   useEffect(() => {
     const loadData = async () => {
-      const res = await fetch("../donationData.json");
+      const res = await fetch("/donationData.json");
       const data = await res.json();
       setCategories(data);
     };

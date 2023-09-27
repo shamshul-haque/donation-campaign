@@ -1,7 +1,7 @@
 import { useLoaderData, useParams } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { saveData } from "../utility/LocalStorage";
+import { getStoredData, saveData } from "../utility/LocalStorage";
 
 const DonationDetails = () => {
   const donationData = useLoaderData();
@@ -10,10 +10,21 @@ const DonationDetails = () => {
   const item = donationData.find((item) => item.id === idInt);
 
   const handleDonation = () => {
-    saveData(idInt);
-    toast.success("Your donation has been received!", {
-      theme: "colored",
-    });
+    const storedData = getStoredData();
+    const isExist = storedData.find((item) => item === idInt);
+    if (isExist) {
+      toast.warning(
+        "You have donated in this category before. Please Donate on our another category!",
+        {
+          theme: "colored",
+        }
+      );
+    } else {
+      saveData(idInt);
+      toast.success("Your donation has been received!", {
+        theme: "colored",
+      });
+    }
   };
 
   return (

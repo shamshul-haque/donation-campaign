@@ -1,6 +1,6 @@
-# Live Link
+# Donation Campaign
 
-Click here to see the live project: [shams-donation-camping.surge.sh](http://shams-donation-camping.surge.sh/)
+Click here to see the live project: [donation-camping](http://shams-donation-camping.surge.sh/)
 
 # Project Features
 

@@ -1,3 +1,4 @@
+import { Helmet } from "react-helmet-async";
 import { useLoaderData, useParams } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -29,6 +30,9 @@ const DonationDetails = () => {
 
   return (
     <div className="px-5 md:px-10 lg:px-16 py-5 pt-16">
+      <Helmet>
+        <title>Donation Campaign | Donation Details</title>
+      </Helmet>
       <div className="relative">
         <img src={item.Picture} alt="" className="w-full rounded-md" />
         <div className="absolute bottom-0 left-0 h-20 w-full bg-black opacity-50 rounded-b-md"></div>

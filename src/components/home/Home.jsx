@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Helmet } from "react-helmet-async";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Banner from "../banner/Banner";
@@ -39,6 +40,9 @@ const Home = () => {
 
   return (
     <div>
+      <Helmet>
+        <title>Donation Campaign | Home</title>
+      </Helmet>
       <Banner searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
       <div className="px-5 md:px-10 lg:px-16 py-10">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">

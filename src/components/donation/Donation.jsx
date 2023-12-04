@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Helmet } from "react-helmet-async";
 import { Link, useLoaderData } from "react-router-dom";
 import { getStoredData } from "../utility/LocalStorage";
 
@@ -19,6 +20,9 @@ const Donation = () => {
 
   return (
     <div>
+      <Helmet>
+        <title>Donation Campaign | Donation</title>
+      </Helmet>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 px-5 md:px-10 lg:px-16 py-5 pt-16">
         {donated.slice(0, dataLength).map((item) => (
           <div

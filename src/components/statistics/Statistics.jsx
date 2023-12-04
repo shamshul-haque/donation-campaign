@@ -1,3 +1,4 @@
+import { Helmet } from "react-helmet-async";
 import { useLoaderData } from "react-router-dom";
 import { Cell, Pie, PieChart, ResponsiveContainer } from "recharts";
 import { getStoredData } from "../utility/LocalStorage";
@@ -39,6 +40,9 @@ const Statistics = () => {
 
   return (
     <div className="h-80 md:h-96 w-80 md:w-96 mx-auto">
+      <Helmet>
+        <title>Donation Campaign | Statistics</title>
+      </Helmet>
       <ResponsiveContainer width="100%" height="100%" className="pt-16">
         <PieChart width={500} height={500}>
           <Pie
